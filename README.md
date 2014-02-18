@@ -1,6 +1,6 @@
-JBRP --> JailBreak RolePlay     |||
-Version: 1.00                   |||
-|||-|||-|||-|||-|||-|||-|||-|||-|||
+JBRP --> JailBreak RolePlay
+Version: 1.00
+
 
 Welcome To The JailBreak RolePlay Official Repo
 
